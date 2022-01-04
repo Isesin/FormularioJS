@@ -1,0 +1,6 @@
+[
+    {"id":"1", "nombre":"Sistema de Alarma", "imagen":"alarma.jpg" },
+    {"id":"2", "nombre":"Cerco Eléctrico", "imagen":"cercoElectrico.jpg"},
+    {"id":"3", "nombre":"Cámaras de Seguridad", "imagen":"camaras.jpg"}
+
+]
